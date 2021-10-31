@@ -16,5 +16,14 @@ very begning of web development tutorial
 
 
  ## What are Web developer specializations 
- ## choice of programming language
+ - Front-end developer , client-side
+ - Back-End Developer  , server-side
+ - Full-Stack Developer
+ 
+ ## choice of programming language / framework
+  Before any choice, learn key programming languages for web dev ( HTML, CSS, Javascript)
+  
+ ## How to become a web developer in a few days / faster
+  there is no shortcut, you have to learn step by step and do a lot of applications, projects
+  
  ## Recommended books
